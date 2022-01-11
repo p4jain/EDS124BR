@@ -5,3 +5,6 @@ This repository is a collection of all assingments and teaching portfolio that w
 
 Explaining my Program:
 https://youtu.be/Yrg31d5IZ6I
+
+Write and Explain a Program Using Repeats:
+https://youtu.be/-quL_sdGtYI
