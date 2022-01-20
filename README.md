@@ -11,3 +11,6 @@ https://youtu.be/-quL_sdGtYI
 
 Week 2 Teaching Programming Portfolio:
 https://youtu.be/fSNRFclyPGE
+
+Week 3 Writing a program for a mouse to draw an octagon:
+https://youtu.be/q5yJHQSQ3dQ
