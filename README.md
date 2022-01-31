@@ -17,3 +17,7 @@ https://youtu.be/q5yJHQSQ3dQ
 
 Week 3 Writing a program for monkey getting the bananas:
 https://youtu.be/FtNnGICT_DU
+
+Week 4 Writing a program for variables and drawing three different shapes:
+https://www.youtube.com/watch?v=cPyXq2hNcDM
+
