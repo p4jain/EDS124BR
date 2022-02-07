@@ -21,5 +21,10 @@ https://youtu.be/FtNnGICT_DU
 Week 4 Writing a program for variables and drawing three different shapes:
 https://www.youtube.com/watch?v=cPyXq2hNcDM
 
-Week 4 Writing a program for conditional loops for stopping a soccer ball:
+Week 5 Writing a program for conditional loops for stopping a soccer ball:
 https://www.youtube.com/watch?v=Zyk77L9YHr8
+
+Week 6 Writing a program for using if and else statments:
+https://youtu.be/wYsT1pYKufk
+
+
