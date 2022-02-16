@@ -27,4 +27,5 @@ https://www.youtube.com/watch?v=Zyk77L9YHr8
 Week 6 Writing a program for using if and else statments:
 https://youtu.be/wYsT1pYKufk
 
-
+Week 6 Writing a program for using nested if and else statements (Penguin):
+https://youtu.be/nGAigp05tqk 
