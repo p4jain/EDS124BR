@@ -29,3 +29,7 @@ https://youtu.be/wYsT1pYKufk
 
 Week 6 Writing a program for using nested if and else statements (Penguin):
 https://youtu.be/nGAigp05tqk 
+
+Week 8: Writing a program for using Conditionals (Alonso finds Treasure):
+https://youtu.be/eaO_2vWlJzo
+
