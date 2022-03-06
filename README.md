@@ -33,3 +33,5 @@ https://youtu.be/nGAigp05tqk
 Week 8: Writing a program for using Conditionals (Alonso finds Treasure):
 https://youtu.be/eaO_2vWlJzo
 
+Week 9: Writing a program for using Abstraction (Drawing a picture):
+https://youtu.be/jA3skmjIeP0
