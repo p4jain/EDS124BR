@@ -35,3 +35,6 @@ https://youtu.be/eaO_2vWlJzo
 
 Week 9: Writing a program for using Abstraction (Drawing a picture):
 https://youtu.be/jA3skmjIeP0
+
+Week 10: Writing a program for using Lists (List of Countries with a letter):
+https://youtu.be/7s39qEmyyFU 
